@@ -2,6 +2,7 @@
     text-align: center;
 }
 
+
 body{margin:40px;}
 
 .stepwizard-step p {
@@ -39,7 +40,7 @@ body{margin:40px;}
 
 .stepwizard-step {
   display: table-cell;
-  
+
     text-align: center;
     position: relative;
 
@@ -54,4 +55,33 @@ body{margin:40px;}
   font-size: 12px;
   line-height: 1.428571429;
   border-radius: 15px;
+}
+
+svg.planet {
+  position: absolute;
+  margin-top: -100px;
+  right: 200px;
+  top: 0;
+  height: 60%;
+  width: 15%;
+}
+
+a.back{
+  margin-left: 82%;
+}
+a.loggain{
+    width: 100%;
+}
+.surveymonkey{
+  margin-top: 5%;
+  margin-left:30%;
+}
+.information{
+  margin-left:15%;
+  margin-right: 15%;
+}
+.site-logo{
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
 }
