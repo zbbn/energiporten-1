@@ -15,20 +15,11 @@ input.field{
     margin-right: auto;
     margin-left: auto;
 }
-.jumbotron{
-    text-align: center;
-}
+
 div.well{
     text-align: center;
 }
-svg.planet {
-    position: absolute;
-    margin-top: -100px;
-    right: 200px;
-    top: 0;
-    height: 60%;
-    width: 15%;
-}
+
 .stepwizard-step p {
     margin-top: 10px;
 }
