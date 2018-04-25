@@ -1,5 +1,5 @@
 body{
-font-family: 'Dosis', sans-serif;
+font-family: 'Montserrat', sans-serif;
 margin:40px;
 }
 .loggain{
@@ -15,6 +15,18 @@ input.field{
     width: 50%;
     margin-right: auto;
     margin-left: auto;
+}
+
+.btn-success{
+  text-transform: uppercase;
+}
+
+.btn-warning{
+  text-transform: uppercase;
+}
+
+.btn-info{
+  text-transform: uppercase;
 }
 
 div.well{
