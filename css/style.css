@@ -1,6 +1,15 @@
 body{
+<<<<<<< HEAD
 font-family: 'Dosis', sans-serif;
 margin:40px;
+=======
+font-family: 'Montserrat', sans-serif;
+}
+a.eye-open{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -40px;
+>>>>>>> origin/master
 }
 .loggain{
     width: 50%;
@@ -10,6 +19,8 @@ margin:40px;
 }
 h3{
     text-align: center;
+    text-transform: uppercase;
+    text-shadow: 1px 1px black;
 }
 input.field{
     width: 50%;
@@ -17,8 +28,30 @@ input.field{
     margin-left: auto;
 }
 
+<<<<<<< HEAD
+=======
+.btn-success{
+  text-transform: uppercase;
+}
+
+.btn-warning{
+  text-transform: uppercase;
+}
+
+.btn-info{
+  text-transform: uppercase;
+  background-color: #125e80;
+  border-color: #125e80;
+}
+
+.btn-info:hover{
+  background-color: #074B69;
+}
+
+>>>>>>> origin/master
 div.well{
     text-align: center;
+    padding: 50px;
 }
 
 .stepwizard-step p {
@@ -31,6 +64,7 @@ div.well{
     display: table;
     width: 100%;
     position: relative;
+    font-size: 11px;
 }
 .stepwizard-step button[disabled] {
     opacity: 1 !important;
