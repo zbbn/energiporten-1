@@ -1,5 +1,5 @@
 body{
-font-family: 'Montserrat', sans-serif;
+font-family: 'Dosis', sans-serif;
 margin:40px;
 }
 .loggain{
@@ -15,18 +15,6 @@ input.field{
     width: 50%;
     margin-right: auto;
     margin-left: auto;
-}
-
-.btn-success{
-  text-transform: uppercase;
-}
-
-.btn-warning{
-  text-transform: uppercase;
-}
-
-.btn-info{
-  text-transform: uppercase;
 }
 
 div.well{
@@ -92,4 +80,15 @@ div.well{
   margin-top: 4%;
   margin-left: 2%;
   width: 96%;
+}
+
+.btn-info{
+    background-color: #125e80;
+    border-style: none;
+
+}
+
+.btn-info:hover{
+    background-color: #125e80;
+    border-style: none;
 }
