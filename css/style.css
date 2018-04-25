@@ -1,6 +1,10 @@
 body{
 font-family: 'Montserrat', sans-serif;
-margin:40px;
+}
+a.eye-open{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -40px;
 }
 .loggain{
     width: 50%;
